@@ -4,7 +4,7 @@ This is my personal portfolio website, created to showcase my skills, projects, 
 
 👨‍💻 About Me
 
-I am Debjyoti Debnath, passionate about software testing (manual & automation), web technologies, and building real-world projects. This portfolio highlights my journey, technical expertise, and career aspirations.
+I am Debjyoti Debnath, passionate about software testing (manual & automation), web technologies, and building real-world projects.
 
 📸 Preview
 
