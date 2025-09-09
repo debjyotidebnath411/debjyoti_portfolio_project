@@ -18,6 +18,6 @@ I am Debjyoti Debnath, passionate about software testing (manual & automation), 
 
 💼 LinkedIn: https://www.linkedin.com/in/debjyoti-debnath-411qq/
 
-🐙 GitHub: DebjyotiDebnath
+🐙 GitHub: debjyotidebnath411
 
 ✨ Thanks for visiting my portfolio!
