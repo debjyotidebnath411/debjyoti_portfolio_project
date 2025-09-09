@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debjyoti Debnath - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 class="logo">Debjyoti Debnath</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">🏠</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Project Details</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#recommendations">Recommendations</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="images/profile.png" alt="Profile Photo" class="profile-pic">
+        <p>Hi, I'm Debjyoti Debnath, a passionate software tester and aspiring automation engineer. 
+        I enjoy building efficient test automation frameworks and creating modern web solutions. 
+        My goal is to master mobile and web automation to contribute to high-quality software delivery.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skills-container">
+            <div class="skill"><img src="images/html.svg" alt="HTML"><p>HTML</p></div>
+            <div class="skill"><img src="images/css.svg" alt="CSS"><p>CSS</p></div>
+            <div class="skill"><img src="images/js.svg" alt="JavaScript"><p>JavaScript</p></div>
+            <div class="skill"><img src="images/java.svg" alt="Java"><p>Java</p></div>
+            <div class="skill"><img src="images/selenium.png" alt="Selenium"><p>Selenium</p></div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Portfolio Website</h3>
+            <p>A personal portfolio showcasing my skills, projects, and achievements with a modern responsive design.</p>
+        </div>
+        <div class="project">
+            <h3>E-commerce Website</h3>
+            <p>A fully functional online shopping platform with product catalog, cart, and payment gateway integration.</p>
+        </div>
+        <div class="project">
+            <h3>Weather Forecast WebApp</h3>
+            <p>A web application that fetches real-time weather data using APIs and presents it in an easy-to-understand format.</p>
+        </div>
+    </section>
+
+    <section id="recommendations">
+        <h2>Recommendations</h2>
+        <ul id="rec-list">
+            <li>Debjyoti has a strong passion for learning and always demonstrates dedication in his work. His ability to adapt to new tools is impressive.</li>
+            <li>I was impressed by Debjyoti's problem-solving skills and his keen eye for detail while testing applications.</li>
+            <li>Debjyoti is a team player with excellent technical knowledge in automation, and he delivers projects with great professionalism.</li>
+        </ul>
+        <textarea id="new-rec" placeholder="Write a recommendation..."></textarea>
+        <button onclick="addRecommendation()">Submit</button>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
